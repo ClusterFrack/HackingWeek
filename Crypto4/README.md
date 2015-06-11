@@ -25,9 +25,9 @@ Session Close: Thu Feb 05 21:22:11 2015
 
 La clef de validation est le contenu du message chiffré avec la clef privée d'Alice, reconstituez le en utilisant les fichiers suivants:
 
-* alice.pub
-* mykey.pem
-* secret
+* [alice.pub](./alice.pub)
+* [mykey.pem](./mykey.pem)
+* [secret](./secret)
 
 ## Solution
 

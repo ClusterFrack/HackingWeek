@@ -78,8 +78,8 @@ privateExponent:
     b5:ba:b7:95:c6:90:05:3e:65:2d:11:53:9a:2d:96:  
     0f:ea:de:cb:9b:17:54:87:00:0f:78:12:ce:ac:f5:  
     db:83:30:16:06:cc:35:7d:a3  
-prime1: **245 (0xf5)**  
-prime2: **207 (0xcf)**  
+prime1: 245 (0xf5)  
+prime2: 207 (0xcf)  
 exponent1: 163 (0xa3)  
 exponent2: 138 (0x8a)  
 coefficient: 189 (0xbd)  
